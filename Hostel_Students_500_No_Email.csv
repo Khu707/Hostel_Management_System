@@ -1,0 +1,501 @@
+Student_ID,Student_Name,Gender,Department,Year_of_Study,Contact_No
+1001,Sneha Sharma,Female,Data Science,1,9842868828
+1002,Pooja Patel,Male,Data Science,2,9883197857
+1003,Amit Kulkarni,Male,Mechanical,3,9813999315
+1004,Amit Joshi,Male,IT,4,9885329037
+1005,Rohit Jain,Male,Mechanical,1,9870291817
+1006,Abhishek Singh,Male,Computer Science,2,9866722344
+1007,Vikas Singh,Male,IT,3,9855176955
+1008,Sneha Verma,Male,Mechanical,4,9858181396
+1009,Kavya Kulkarni,Male,Electronics,1,9871662963
+1010,Divya Verma,Male,Mechanical,2,9884093639
+1011,Anjali Kulkarni,Male,Electronics,3,9819335534
+1012,Priya Joshi,Male,Electronics,4,9841244663
+1013,Sneha Yadav,Female,Electronics,1,9895320121
+1014,Kavya Patel,Female,Electronics,2,9838119557
+1015,Karan Verma,Male,Civil,3,9881691040
+1016,Pooja Patel,Female,Mechanical,4,9846231783
+1017,Divya Joshi,Female,Data Science,1,9817507864
+1018,Pooja Sharma,Female,Electronics,2,9845935572
+1019,Amit Joshi,Female,Civil,3,9838538251
+1020,Riya Yadav,Female,Data Science,4,9829175900
+1021,Karan Patel,Female,IT,1,9888461803
+1022,Nisha Kulkarni,Female,Mechanical,2,9839436733
+1023,Arjun Jain,Male,Mechanical,3,9816323852
+1024,Sneha Patel,Male,Data Science,4,9866661351
+1025,Meera Verma,Female,Mechanical,1,9889978790
+1026,Akash Jain,Male,Electronics,2,9825374874
+1027,Divya Singh,Female,Data Science,3,9824972279
+1028,Anjali Yadav,Female,IT,4,9810435578
+1029,Karan Jain,Male,IT,1,9893926371
+1030,Anjali Jain,Male,Civil,2,9830513739
+1031,Kavya Patel,Male,Civil,3,9890388981
+1032,Vikas Mishra,Male,Computer Science,4,9858718453
+1033,Anjali Joshi,Male,Computer Science,1,9886149359
+1034,Amit Verma,Female,Data Science,2,9819289546
+1035,Divya Patel,Female,IT,3,9883793389
+1036,Neha Singh,Female,Civil,4,9838427073
+1037,Divya Joshi,Female,Data Science,1,9863551839
+1038,Kavya Mishra,Female,Civil,2,9826240908
+1039,Pooja Joshi,Female,Computer Science,3,9812823170
+1040,Abhishek Jain,Male,IT,4,9810965138
+1041,Amit Sharma,Male,IT,1,9814216175
+1042,Vikas Verma,Male,Civil,2,9847376585
+1043,Riya Joshi,Male,Civil,3,9886644106
+1044,Abhishek Mishra,Female,IT,4,9864634663
+1045,Rohit Verma,Female,Computer Science,1,9857553014
+1046,Nisha Yadav,Male,Mechanical,2,9897705310
+1047,Sneha Sharma,Female,Mechanical,3,9824665841
+1048,Pooja Joshi,Female,IT,4,9828814949
+1049,Nisha Patel,Female,Electronics,1,9843528453
+1050,Amit Mishra,Male,Civil,2,9816789850
+1051,Divya Sharma,Male,Computer Science,3,9832321899
+1052,Nisha Mishra,Male,Mechanical,4,9863826716
+1053,Priya Patel,Male,Mechanical,1,9862401521
+1054,Karan Mishra,Female,Electronics,2,9884593961
+1055,Riya Patel,Female,IT,3,9839219319
+1056,Priya Kulkarni,Male,Data Science,4,9852091325
+1057,Priya Sharma,Female,Civil,1,9877491435
+1058,Manish Patel,Male,Computer Science,2,9834941004
+1059,Amit Kulkarni,Male,Computer Science,3,9864193837
+1060,Sneha Kulkarni,Male,IT,4,9893131979
+1061,Amit Yadav,Female,Data Science,1,9844999379
+1062,Rohit Gupta,Female,IT,2,9863121477
+1063,Arjun Singh,Female,Mechanical,3,9819736572
+1064,Rahul Mishra,Male,Civil,4,9819832887
+1065,Divya Joshi,Female,Civil,1,9827778019
+1066,Kavya Verma,Female,IT,2,9848250360
+1067,Neha Mishra,Female,Civil,3,9892097999
+1068,Manish Sharma,Female,Data Science,4,9899038526
+1069,Sneha Patel,Male,Electronics,1,9824366125
+1070,Divya Patel,Female,Electronics,2,9891178885
+1071,Rohit Gupta,Female,IT,3,9877834855
+1072,Riya Singh,Male,Computer Science,4,9895132217
+1073,Nisha Singh,Male,Computer Science,1,9854769200
+1074,Arjun Singh,Female,IT,2,9884045292
+1075,Nisha Jain,Male,Computer Science,3,9820099059
+1076,Arjun Jain,Female,Computer Science,4,9888183110
+1077,Divya Patel,Male,Mechanical,1,9815614174
+1078,Anjali Gupta,Female,Computer Science,2,9838195995
+1079,Pooja Verma,Female,Electronics,3,9893303777
+1080,Arjun Joshi,Male,IT,4,9865337219
+1081,Rahul Patel,Female,Data Science,1,9865259205
+1082,Pooja Singh,Male,IT,2,9861343880
+1083,Priya Mishra,Male,IT,3,9871780854
+1084,Kavya Singh,Male,IT,4,9813176186
+1085,Rohit Yadav,Female,Electronics,1,9819317495
+1086,Karan Gupta,Female,Data Science,2,9881969657
+1087,Vikas Sharma,Female,Computer Science,3,9833966966
+1088,Abhishek Singh,Male,Computer Science,4,9890070438
+1089,Nisha Gupta,Female,Data Science,1,9868571795
+1090,Meera Jain,Female,Computer Science,2,9887388337
+1091,Rohit Singh,Female,Computer Science,3,9810226999
+1092,Manish Jain,Male,Data Science,4,9858884978
+1093,Nisha Verma,Female,Data Science,1,9893638503
+1094,Vikas Verma,Female,Data Science,2,9878064830
+1095,Anjali Yadav,Female,Electronics,3,9849682169
+1096,Divya Patel,Female,IT,4,9899245317
+1097,Sahil Patel,Female,Civil,1,9864502486
+1098,Divya Sharma,Female,Electronics,2,9838210242
+1099,Nisha Kulkarni,Female,Civil,3,9872409658
+1100,Akash Mishra,Male,Data Science,4,9878608612
+1101,Riya Patel,Male,Data Science,1,9848089166
+1102,Manish Kulkarni,Male,Electronics,2,9841523529
+1103,Anjali Joshi,Male,IT,3,9813278320
+1104,Priya Joshi,Male,Mechanical,4,9871124923
+1105,Nisha Kulkarni,Female,IT,1,9876354180
+1106,Sahil Joshi,Male,IT,2,9824305904
+1107,Nisha Joshi,Female,IT,3,9816740197
+1108,Divya Joshi,Female,Computer Science,4,9827896471
+1109,Akash Jain,Female,Civil,1,9869401199
+1110,Meera Jain,Female,Mechanical,2,9831361812
+1111,Riya Mishra,Male,Electronics,3,9895585469
+1112,Karan Jain,Male,Mechanical,4,9846855845
+1113,Akash Verma,Female,Data Science,1,9841473195
+1114,Karan Gupta,Male,Electronics,2,9828572252
+1115,Arjun Joshi,Male,Mechanical,3,9838716269
+1116,Amit Yadav,Female,Mechanical,4,9882828034
+1117,Akash Yadav,Male,Computer Science,1,9866390708
+1118,Sahil Kulkarni,Male,Data Science,2,9887267850
+1119,Sahil Mishra,Female,Computer Science,3,9850079111
+1120,Sahil Yadav,Male,Civil,4,9875529051
+1121,Pooja Singh,Female,Mechanical,1,9813895645
+1122,Sahil Gupta,Female,Data Science,2,9832151928
+1123,Akash Patel,Male,Civil,3,9862884503
+1124,Abhishek Kulkarni,Male,Data Science,4,9821267237
+1125,Nisha Patel,Male,Mechanical,1,9816749089
+1126,Karan Yadav,Male,Electronics,2,9871028710
+1127,Vikas Gupta,Female,Mechanical,3,9866581473
+1128,Karan Verma,Male,Mechanical,4,9882399599
+1129,Priya Gupta,Male,IT,1,9897477029
+1130,Priya Sharma,Male,IT,2,9812735359
+1131,Meera Patel,Male,IT,3,9873560289
+1132,Sneha Kulkarni,Female,IT,4,9844392446
+1133,Kavya Patel,Male,Civil,1,9831980274
+1134,Anjali Verma,Male,Civil,2,9851870192
+1135,Abhishek Yadav,Male,Mechanical,3,9820200074
+1136,Abhishek Joshi,Female,Computer Science,4,9890585882
+1137,Sneha Kulkarni,Female,Computer Science,1,9881503856
+1138,Nisha Gupta,Female,Computer Science,2,9811698142
+1139,Nisha Mishra,Female,Computer Science,3,9858612055
+1140,Akash Patel,Male,Mechanical,4,9880027662
+1141,Karan Kulkarni,Female,Civil,1,9872394301
+1142,Nisha Kulkarni,Female,Electronics,2,9842949803
+1143,Amit Singh,Male,Mechanical,3,9872372114
+1144,Abhishek Kulkarni,Female,Data Science,4,9855150390
+1145,Rahul Mishra,Male,Electronics,1,9875437844
+1146,Rohit Gupta,Female,Electronics,2,9847535126
+1147,Meera Singh,Male,Civil,3,9879340535
+1148,Rohit Verma,Female,IT,4,9875575808
+1149,Divya Joshi,Female,Data Science,1,9896691619
+1150,Riya Mishra,Male,Computer Science,2,9849491631
+1151,Pooja Yadav,Male,Data Science,3,9851098277
+1152,Abhishek Gupta,Female,Mechanical,4,9867110154
+1153,Divya Gupta,Female,Electronics,1,9846361787
+1154,Anjali Singh,Male,IT,2,9835848226
+1155,Vikas Verma,Male,Data Science,3,9835708194
+1156,Rohit Mishra,Female,Electronics,4,9823492385
+1157,Rohit Singh,Female,IT,1,9834084236
+1158,Anjali Sharma,Male,Data Science,2,9846817443
+1159,Priya Sharma,Female,Civil,3,9826948946
+1160,Riya Verma,Female,Computer Science,4,9873001391
+1161,Riya Mishra,Male,Electronics,1,9816895666
+1162,Karan Mishra,Male,Computer Science,2,9863782042
+1163,Riya Verma,Male,Civil,3,9830364454
+1164,Arjun Kulkarni,Male,Electronics,4,9843311626
+1165,Sneha Jain,Male,Mechanical,1,9880138498
+1166,Sahil Mishra,Female,Mechanical,2,9888990506
+1167,Nisha Singh,Male,Civil,3,9891823275
+1168,Sneha Joshi,Male,Data Science,4,9845520201
+1169,Amit Patel,Male,IT,1,9884087145
+1170,Amit Patel,Female,Computer Science,2,9870465583
+1171,Meera Mishra,Male,Electronics,3,9841068214
+1172,Anjali Singh,Female,Data Science,4,9819553585
+1173,Pooja Singh,Male,Data Science,1,9867061186
+1174,Sneha Jain,Male,IT,2,9845652586
+1175,Arjun Verma,Male,Computer Science,3,9851286958
+1176,Meera Kulkarni,Female,Electronics,4,9826690465
+1177,Akash Singh,Female,Data Science,1,9846540265
+1178,Manish Jain,Female,Mechanical,2,9820796722
+1179,Meera Sharma,Female,Mechanical,3,9891029073
+1180,Karan Sharma,Male,Computer Science,4,9887201917
+1181,Abhishek Sharma,Female,Data Science,1,9887342561
+1182,Priya Patel,Female,Mechanical,2,9847333543
+1183,Neha Kulkarni,Female,Mechanical,3,9822246348
+1184,Riya Gupta,Female,Mechanical,4,9853091709
+1185,Sneha Patel,Female,Electronics,1,9876500726
+1186,Anjali Yadav,Male,Civil,2,9871045700
+1187,Amit Gupta,Female,Electronics,3,9825558733
+1188,Sahil Jain,Female,Computer Science,4,9865465150
+1189,Priya Joshi,Female,Civil,1,9893568503
+1190,Riya Mishra,Male,Computer Science,2,9845843681
+1191,Divya Patel,Female,Electronics,3,9875056916
+1192,Sneha Sharma,Male,Data Science,4,9831257157
+1193,Anjali Jain,Female,Computer Science,1,9822510327
+1194,Pooja Verma,Male,Mechanical,2,9896934122
+1195,Arjun Mishra,Female,Data Science,3,9878299645
+1196,Karan Yadav,Female,Mechanical,4,9842713008
+1197,Akash Jain,Female,IT,1,9835583290
+1198,Meera Jain,Male,Data Science,2,9819369750
+1199,Karan Yadav,Female,Electronics,3,9810344303
+1200,Anjali Singh,Female,Civil,4,9829944139
+1201,Akash Jain,Female,Mechanical,1,9854619335
+1202,Divya Jain,Female,Mechanical,2,9853188224
+1203,Rohit Joshi,Female,Civil,3,9841348220
+1204,Nisha Sharma,Female,Electronics,4,9861167978
+1205,Sahil Patel,Male,Mechanical,1,9826944487
+1206,Manish Kulkarni,Male,Electronics,2,9869096899
+1207,Sneha Jain,Male,Mechanical,3,9829348212
+1208,Nisha Patel,Female,Computer Science,4,9845570755
+1209,Vikas Kulkarni,Female,Data Science,1,9897219599
+1210,Amit Gupta,Female,Data Science,2,9852501540
+1211,Riya Jain,Male,Computer Science,3,9841510328
+1212,Anjali Joshi,Male,Data Science,4,9868246664
+1213,Sneha Verma,Male,Mechanical,1,9850193656
+1214,Rahul Sharma,Male,Electronics,2,9849375156
+1215,Kavya Gupta,Male,Mechanical,3,9842775624
+1216,Manish Yadav,Male,Civil,4,9832814819
+1217,Neha Verma,Female,Civil,1,9893176117
+1218,Pooja Mishra,Male,Civil,2,9841163805
+1219,Akash Singh,Female,Mechanical,3,9899501846
+1220,Rahul Mishra,Male,Electronics,4,9819913576
+1221,Akash Gupta,Female,Civil,1,9895756900
+1222,Nisha Singh,Female,Mechanical,2,9836738452
+1223,Sahil Mishra,Male,Computer Science,3,9861185849
+1224,Abhishek Gupta,Female,Civil,4,9849625201
+1225,Rahul Yadav,Male,Electronics,1,9885957706
+1226,Priya Kulkarni,Female,Data Science,2,9848412328
+1227,Pooja Kulkarni,Male,Electronics,3,9895445405
+1228,Rohit Kulkarni,Male,Electronics,4,9894322033
+1229,Sneha Sharma,Female,Electronics,1,9814478111
+1230,Abhishek Gupta,Male,Data Science,2,9822097496
+1231,Anjali Gupta,Female,Data Science,3,9833574011
+1232,Rohit Patel,Female,Civil,4,9881249799
+1233,Manish Singh,Female,IT,1,9874672520
+1234,Anjali Gupta,Female,Computer Science,2,9820106509
+1235,Arjun Joshi,Female,Data Science,3,9884801233
+1236,Kavya Verma,Male,Mechanical,4,9845495029
+1237,Divya Verma,Female,Mechanical,1,9845186708
+1238,Abhishek Yadav,Female,Data Science,2,9824541967
+1239,Pooja Mishra,Female,Computer Science,3,9891883846
+1240,Pooja Verma,Female,Data Science,4,9850559278
+1241,Nisha Verma,Male,IT,1,9814994527
+1242,Anjali Mishra,Male,Computer Science,2,9841514326
+1243,Divya Patel,Female,Mechanical,3,9859796322
+1244,Divya Yadav,Male,Civil,4,9865684858
+1245,Sneha Mishra,Female,Civil,1,9847546086
+1246,Priya Gupta,Female,IT,2,9869686067
+1247,Pooja Gupta,Female,Computer Science,3,9883076970
+1248,Kavya Sharma,Female,Mechanical,4,9835475673
+1249,Sneha Mishra,Male,Computer Science,1,9896128115
+1250,Meera Sharma,Female,Computer Science,2,9842691263
+1251,Arjun Kulkarni,Male,IT,3,9884384510
+1252,Rohit Kulkarni,Male,IT,4,9854098516
+1253,Arjun Kulkarni,Female,Computer Science,1,9829419691
+1254,Arjun Jain,Male,Electronics,2,9824754064
+1255,Rahul Patel,Female,Computer Science,3,9841934639
+1256,Abhishek Gupta,Male,Computer Science,4,9845617024
+1257,Priya Patel,Female,Data Science,1,9880610004
+1258,Sneha Verma,Female,Mechanical,2,9858592048
+1259,Manish Kulkarni,Female,Computer Science,3,9877624084
+1260,Pooja Kulkarni,Female,Computer Science,4,9871477426
+1261,Rahul Sharma,Female,Mechanical,1,9867213476
+1262,Sneha Mishra,Female,Data Science,2,9819863756
+1263,Amit Gupta,Male,Civil,3,9818815720
+1264,Arjun Singh,Female,Civil,4,9861124122
+1265,Meera Jain,Female,Electronics,1,9877853916
+1266,Meera Yadav,Male,Computer Science,2,9897874085
+1267,Divya Joshi,Female,Mechanical,3,9840667888
+1268,Nisha Gupta,Female,Mechanical,4,9865833185
+1269,Sneha Gupta,Female,Mechanical,1,9899269266
+1270,Karan Gupta,Female,IT,2,9819010480
+1271,Amit Verma,Female,Computer Science,3,9822960658
+1272,Kavya Patel,Male,Civil,4,9888714010
+1273,Divya Jain,Male,Electronics,1,9865137801
+1274,Kavya Yadav,Male,Data Science,2,9848604965
+1275,Meera Singh,Male,Electronics,3,9887566910
+1276,Manish Joshi,Female,IT,4,9840097636
+1277,Sneha Gupta,Female,Civil,1,9825419645
+1278,Karan Kulkarni,Female,IT,2,9885291541
+1279,Meera Kulkarni,Male,Data Science,3,9891737913
+1280,Karan Sharma,Female,IT,4,9851471222
+1281,Vikas Gupta,Male,Computer Science,1,9829226889
+1282,Abhishek Yadav,Male,Computer Science,2,9894982908
+1283,Rahul Verma,Male,Data Science,3,9860491958
+1284,Nisha Mishra,Male,Electronics,4,9859667685
+1285,Anjali Gupta,Male,Civil,1,9817061037
+1286,Arjun Patel,Male,Civil,2,9820949687
+1287,Karan Mishra,Female,Data Science,3,9875184410
+1288,Meera Mishra,Female,Mechanical,4,9838933176
+1289,Manish Verma,Female,Electronics,1,9824883373
+1290,Anjali Kulkarni,Female,Mechanical,2,9816095815
+1291,Pooja Yadav,Male,Civil,3,9811031743
+1292,Rohit Singh,Male,IT,4,9844295247
+1293,Anjali Gupta,Male,Computer Science,1,9876757928
+1294,Nisha Patel,Female,IT,2,9881481992
+1295,Pooja Jain,Female,Civil,3,9819673809
+1296,Sahil Sharma,Male,Mechanical,4,9871707170
+1297,Amit Gupta,Female,Civil,1,9886960402
+1298,Sahil Yadav,Male,Electronics,2,9864362516
+1299,Rahul Gupta,Female,IT,3,9858567046
+1300,Amit Yadav,Male,Computer Science,4,9868475513
+1301,Abhishek Yadav,Male,Civil,1,9863118906
+1302,Anjali Gupta,Female,IT,2,9832566390
+1303,Amit Jain,Male,Data Science,3,9881216573
+1304,Manish Joshi,Female,Electronics,4,9896629889
+1305,Arjun Joshi,Male,Computer Science,1,9844355473
+1306,Rohit Patel,Male,Civil,2,9897980930
+1307,Amit Patel,Female,Data Science,3,9872270726
+1308,Abhishek Kulkarni,Female,Mechanical,4,9894183695
+1309,Vikas Patel,Male,Mechanical,1,9872937522
+1310,Akash Singh,Male,Electronics,2,9857236885
+1311,Manish Verma,Female,Electronics,3,9870654852
+1312,Priya Sharma,Female,Electronics,4,9820298660
+1313,Amit Kulkarni,Female,Civil,1,9872104107
+1314,Abhishek Jain,Male,Data Science,2,9870362235
+1315,Abhishek Joshi,Female,Electronics,3,9877292380
+1316,Arjun Sharma,Male,Mechanical,4,9856095437
+1317,Amit Jain,Male,Data Science,1,9815253567
+1318,Pooja Mishra,Male,Mechanical,2,9858841557
+1319,Kavya Singh,Female,Mechanical,3,9855414869
+1320,Meera Sharma,Female,Data Science,4,9818846539
+1321,Vikas Verma,Female,Civil,1,9848137561
+1322,Karan Kulkarni,Female,IT,2,9820939011
+1323,Abhishek Patel,Female,Electronics,3,9898054173
+1324,Sahil Patel,Male,Civil,4,9851551377
+1325,Divya Yadav,Female,Data Science,1,9827152188
+1326,Manish Verma,Female,Data Science,2,9878248169
+1327,Kavya Sharma,Female,Electronics,3,9834194479
+1328,Rohit Gupta,Male,Mechanical,4,9840406092
+1329,Arjun Patel,Female,Computer Science,1,9823574883
+1330,Manish Jain,Male,Data Science,2,9898842638
+1331,Vikas Kulkarni,Female,IT,3,9830703455
+1332,Neha Patel,Male,Data Science,4,9868743530
+1333,Priya Yadav,Male,Electronics,1,9869619341
+1334,Meera Singh,Female,Data Science,2,9841407343
+1335,Divya Joshi,Female,Electronics,3,9836040410
+1336,Kavya Kulkarni,Female,Mechanical,4,9847818761
+1337,Sahil Jain,Female,Civil,1,9831751079
+1338,Rohit Kulkarni,Female,IT,2,9817003454
+1339,Riya Gupta,Male,Civil,3,9879244185
+1340,Sneha Singh,Male,Computer Science,4,9846613428
+1341,Akash Jain,Female,IT,1,9822309586
+1342,Pooja Mishra,Male,Electronics,2,9865686520
+1343,Priya Yadav,Female,Civil,3,9841645597
+1344,Sahil Verma,Male,Electronics,4,9813783268
+1345,Vikas Verma,Female,Data Science,1,9829602406
+1346,Arjun Sharma,Female,Electronics,2,9828628439
+1347,Riya Mishra,Male,Civil,3,9820633503
+1348,Rahul Singh,Male,IT,4,9883659258
+1349,Meera Jain,Male,Mechanical,1,9848668339
+1350,Pooja Singh,Male,Computer Science,2,9842002808
+1351,Nisha Kulkarni,Male,Mechanical,3,9824879094
+1352,Riya Kulkarni,Male,Civil,4,9894819556
+1353,Manish Kulkarni,Male,IT,1,9849093864
+1354,Nisha Sharma,Female,Civil,2,9842287985
+1355,Abhishek Yadav,Male,IT,3,9880260907
+1356,Kavya Verma,Male,Civil,4,9862405812
+1357,Riya Sharma,Female,Data Science,1,9860103798
+1358,Karan Sharma,Male,Electronics,2,9856278607
+1359,Pooja Verma,Female,Civil,3,9827905932
+1360,Priya Gupta,Female,Civil,4,9896274567
+1361,Neha Mishra,Female,Data Science,1,9894790150
+1362,Neha Patel,Female,Computer Science,2,9814963880
+1363,Anjali Joshi,Male,Computer Science,3,9815624520
+1364,Vikas Singh,Female,Civil,4,9882884346
+1365,Riya Singh,Male,Computer Science,1,9848401154
+1366,Kavya Sharma,Female,Data Science,2,9846670512
+1367,Sneha Gupta,Female,Mechanical,3,9869020451
+1368,Sahil Gupta,Female,IT,4,9876776459
+1369,Kavya Jain,Male,Electronics,1,9866975380
+1370,Amit Yadav,Male,Civil,2,9883212334
+1371,Anjali Gupta,Male,Computer Science,3,9854012664
+1372,Anjali Singh,Female,Mechanical,4,9832366682
+1373,Akash Gupta,Male,Mechanical,1,9857319709
+1374,Meera Yadav,Male,Electronics,2,9820071854
+1375,Sahil Gupta,Male,Civil,3,9814179623
+1376,Arjun Kulkarni,Female,Data Science,4,9814670638
+1377,Arjun Verma,Female,IT,1,9858607028
+1378,Sahil Kulkarni,Male,Computer Science,2,9870387584
+1379,Kavya Gupta,Male,Mechanical,3,9887030477
+1380,Arjun Jain,Female,Electronics,4,9852196099
+1381,Karan Joshi,Male,Computer Science,1,9834970946
+1382,Riya Jain,Male,Mechanical,2,9845135070
+1383,Karan Mishra,Female,IT,3,9875927774
+1384,Rohit Verma,Male,IT,4,9870672142
+1385,Neha Mishra,Female,Computer Science,1,9899635939
+1386,Kavya Verma,Female,Civil,2,9850259503
+1387,Neha Patel,Male,Electronics,3,9826288992
+1388,Rohit Patel,Female,IT,4,9813527782
+1389,Kavya Jain,Female,Civil,1,9872734149
+1390,Divya Patel,Male,Civil,2,9818824561
+1391,Anjali Yadav,Female,Data Science,3,9880557676
+1392,Nisha Yadav,Male,Civil,4,9826821075
+1393,Vikas Verma,Female,Mechanical,1,9879438885
+1394,Kavya Patel,Male,Civil,2,9827318510
+1395,Nisha Jain,Male,Computer Science,3,9879538491
+1396,Arjun Singh,Male,IT,4,9853306792
+1397,Pooja Gupta,Female,Civil,1,9820584397
+1398,Karan Joshi,Female,Data Science,2,9826800072
+1399,Anjali Kulkarni,Male,Civil,3,9877454225
+1400,Neha Kulkarni,Male,Civil,4,9832978158
+1401,Meera Kulkarni,Male,Electronics,1,9813808225
+1402,Amit Sharma,Female,Data Science,2,9897393186
+1403,Rohit Kulkarni,Male,Mechanical,3,9876845536
+1404,Divya Singh,Female,Data Science,4,9874819756
+1405,Pooja Yadav,Female,Electronics,1,9819794273
+1406,Priya Patel,Female,Mechanical,2,9874995086
+1407,Akash Joshi,Male,Electronics,3,9851954112
+1408,Vikas Gupta,Male,Mechanical,4,9859733063
+1409,Manish Jain,Female,Computer Science,1,9842445506
+1410,Akash Verma,Female,Electronics,2,9843275109
+1411,Arjun Verma,Female,Computer Science,3,9861559717
+1412,Meera Yadav,Male,IT,4,9853947691
+1413,Abhishek Gupta,Male,IT,1,9876876068
+1414,Manish Mishra,Female,Mechanical,2,9876755908
+1415,Rahul Verma,Female,Mechanical,3,9842310051
+1416,Rohit Kulkarni,Male,Electronics,4,9816783418
+1417,Anjali Mishra,Female,Civil,1,9848352498
+1418,Divya Sharma,Female,Computer Science,2,9827976443
+1419,Karan Gupta,Female,Mechanical,3,9816072331
+1420,Sahil Sharma,Male,Civil,4,9858657117
+1421,Divya Singh,Female,Computer Science,1,9877680031
+1422,Akash Jain,Male,Electronics,2,9827268907
+1423,Sneha Yadav,Female,Electronics,3,9884870921
+1424,Kavya Patel,Female,IT,4,9877119320
+1425,Priya Sharma,Male,Computer Science,1,9854699966
+1426,Riya Jain,Male,Mechanical,2,9891370909
+1427,Manish Patel,Female,Electronics,3,9831810655
+1428,Sahil Kulkarni,Female,Data Science,4,9889688374
+1429,Vikas Jain,Female,Civil,1,9885554415
+1430,Anjali Mishra,Female,Computer Science,2,9854458225
+1431,Sneha Yadav,Female,Civil,3,9894457912
+1432,Rahul Kulkarni,Female,Mechanical,4,9897991930
+1433,Abhishek Kulkarni,Male,IT,1,9888319168
+1434,Riya Patel,Female,Civil,2,9829834119
+1435,Pooja Sharma,Male,Civil,3,9835606639
+1436,Rahul Mishra,Female,Electronics,4,9830324759
+1437,Nisha Joshi,Female,Mechanical,1,9818359252
+1438,Arjun Jain,Female,IT,2,9898882576
+1439,Riya Jain,Female,Mechanical,3,9833244151
+1440,Akash Jain,Female,Electronics,4,9896343485
+1441,Karan Kulkarni,Male,Mechanical,1,9843087238
+1442,Karan Jain,Male,Electronics,2,9849945150
+1443,Anjali Joshi,Female,Data Science,3,9852552488
+1444,Riya Gupta,Female,Civil,4,9848626436
+1445,Sneha Kulkarni,Female,Data Science,1,9862953249
+1446,Kavya Patel,Male,Electronics,2,9848605090
+1447,Amit Gupta,Female,Mechanical,3,9874300930
+1448,Rohit Joshi,Female,Civil,4,9885432781
+1449,Karan Patel,Male,Computer Science,1,9842542167
+1450,Priya Jain,Male,IT,2,9817045237
+1451,Sneha Yadav,Female,Electronics,3,9823494908
+1452,Arjun Sharma,Male,Civil,4,9864614193
+1453,Riya Mishra,Male,Data Science,1,9848553376
+1454,Vikas Singh,Male,Data Science,2,9822007214
+1455,Abhishek Joshi,Male,Civil,3,9833496796
+1456,Nisha Patel,Female,Computer Science,4,9876489301
+1457,Neha Singh,Male,Computer Science,1,9850049524
+1458,Abhishek Kulkarni,Female,Computer Science,2,9848193218
+1459,Akash Jain,Female,Civil,3,9828012011
+1460,Manish Mishra,Male,Electronics,4,9825119192
+1461,Vikas Patel,Female,Data Science,1,9897011385
+1462,Karan Patel,Female,Computer Science,2,9849597485
+1463,Abhishek Joshi,Female,IT,3,9867405358
+1464,Manish Gupta,Female,Computer Science,4,9899826000
+1465,Sneha Patel,Female,IT,1,9853433080
+1466,Pooja Sharma,Female,Electronics,2,9841611127
+1467,Akash Singh,Female,Electronics,3,9888176558
+1468,Abhishek Sharma,Female,Electronics,4,9841715995
+1469,Priya Verma,Female,Mechanical,1,9831436829
+1470,Sahil Jain,Female,Data Science,2,9825759274
+1471,Anjali Gupta,Male,Civil,3,9839410942
+1472,Arjun Mishra,Female,IT,4,9891300905
+1473,Kavya Yadav,Female,Data Science,1,9882144402
+1474,Rohit Joshi,Male,Data Science,2,9880532309
+1475,Akash Jain,Female,Data Science,3,9820482769
+1476,Abhishek Verma,Male,Computer Science,4,9886866717
+1477,Divya Patel,Female,IT,1,9879839059
+1478,Akash Verma,Male,Data Science,2,9888268756
+1479,Riya Verma,Female,Civil,3,9817467311
+1480,Akash Patel,Female,Civil,4,9871310453
+1481,Abhishek Sharma,Female,Civil,1,9851361818
+1482,Rahul Yadav,Male,Electronics,2,9839246218
+1483,Abhishek Verma,Female,Computer Science,3,9856241881
+1484,Amit Jain,Male,Computer Science,4,9873360324
+1485,Priya Singh,Male,Mechanical,1,9828176954
+1486,Nisha Gupta,Female,Mechanical,2,9860666702
+1487,Sahil Verma,Male,Data Science,3,9897715861
+1488,Kavya Verma,Female,IT,4,9880980044
+1489,Arjun Joshi,Male,Computer Science,1,9850045602
+1490,Akash Jain,Female,Mechanical,2,9840824989
+1491,Pooja Mishra,Male,Electronics,3,9846997080
+1492,Rohit Verma,Female,Computer Science,4,9892533595
+1493,Rahul Joshi,Male,IT,1,9823542127
+1494,Meera Sharma,Male,Mechanical,2,9842847661
+1495,Priya Yadav,Male,Mechanical,3,9882445335
+1496,Rohit Sharma,Female,IT,4,9841428626
+1497,Abhishek Gupta,Female,Civil,1,9841796721
+1498,Anjali Patel,Male,Data Science,2,9865507111
+1499,Anjali Singh,Male,Computer Science,3,9894019376
+1500,Nisha Jain,Male,Mechanical,4,9856226575
